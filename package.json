@@ -1,0 +1,13 @@
+{
+  "name": "system-design-patterns",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "demo:backoff": "tsx implementations/backoff/example.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}

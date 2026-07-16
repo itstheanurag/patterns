@@ -29,6 +29,8 @@ patterns/                # one markdown file per pattern
   caching/
   concurrency/
   ...
+implementations/         # optional TypeScript demos per pattern
+  backoff/               # retry with backoff — npm run demo:backoff
 oop/                     # optional GoF / classic design patterns
 ```
 
