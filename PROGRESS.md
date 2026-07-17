@@ -81,7 +81,7 @@ Legend: `[ ]` not started · `[~]` learning · `[x]` solid
 ## reliability
 
 - [~] **M** [retry-with-backoff](./patterns/reliability/retry-with-backoff.md)
-- [ ] **M** [timeouts](./patterns/reliability/timeouts.md)
+- [~] **M** [timeouts](./patterns/reliability/timeouts.md)
 - [ ] **M** [circuit-breaker](./patterns/reliability/circuit-breaker.md)
 - [ ] **M** [graceful-degradation](./patterns/reliability/graceful-degradation.md)
 - [ ] **I** [bulkhead](./patterns/reliability/bulkhead.md)

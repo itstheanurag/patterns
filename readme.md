@@ -31,6 +31,7 @@ patterns/                # one markdown file per pattern
   ...
 implementations/         # optional TypeScript demos per pattern
   backoff/               # retry with backoff — npm run demo:backoff
+  timeout/               # timeouts — npm run demo:timeout
 oop/                     # optional GoF / classic design patterns
 ```
 

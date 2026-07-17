@@ -3,7 +3,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "demo:backoff": "tsx implementations/backoff/example.ts"
+    "demo:backoff": "tsx implementations/backoff/example.ts",
+    "demo:timeout": "tsx implementations/timeout/example.ts"
   },
   "devDependencies": {
     "@types/node": "^22.10.0",
